@@ -1,0 +1,10 @@
+Nvals: [1000]
+ndims: [2]
+Pvals: [0.5]
+MAX_REP: 2
+Avals: [1.0]
+Bvals: [0.0]
+k_avg: 10.0
+timesteps: 10
+Plotting: True
+    
