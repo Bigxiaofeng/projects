@@ -4,7 +4,6 @@
 from imdb import IMDb
 import collections
 import networkx as nx
-import pylab
 from networkx.algorithms import bipartite
 
 #Function that extracts all movies of a given genre present in input file, along with release month and year, and writes them to outputfile
